@@ -17,7 +17,6 @@ public class TwoStackInArray {
         pushInRightStack(arr,3);
         pushInRightStack(arr,4);
         pushInRightStack(arr,5);
-       // pushInLeftStack(arr,6);
 
         printArray(arr);
     }
