@@ -1,7 +1,7 @@
 # DataStructuresAlgorithms
 Data Structure and Algorithms
 
-Leetcode Array:
+**#Leetcode Array questions:
 
 https://leetcode.com/problems/pascals-triangle/
 
