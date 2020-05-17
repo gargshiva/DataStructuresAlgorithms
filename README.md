@@ -4,9 +4,9 @@ Data Structure and Algorithms questions from Leetcode and Youtube channel - (Viv
 - Arrays
 - Binary Tree
 
-#Youtube Array questions:
+# Youtube Array questions:
 
-#Leetcode Array questions:
+# Leetcode Array questions:
 
 - https://leetcode.com/problems/pascals-triangle/
 - https://leetcode.com/problems/plus-one/
@@ -19,7 +19,7 @@ Data Structure and Algorithms questions from Leetcode and Youtube channel - (Viv
 - https://leetcode.com/problems/rotate-array/
 - https://leetcode.com/problems/contains-duplicate/
 
-#Youtube Binary Tree questions:
+# Youtube Binary Tree questions:
 
 - Print all leaf nodes
 - Left side view of tree
