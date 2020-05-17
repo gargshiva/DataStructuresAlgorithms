@@ -1,4 +1,7 @@
-package com.gargshiva.tree.binarytree;
+package com.gargshiva.tree.binarytree.view;
+
+import com.gargshiva.tree.binarytree.impl.BinaryTreeImpl;
+import com.gargshiva.tree.binarytree.impl.TreeNode;
 
 public class RightSideView {
 

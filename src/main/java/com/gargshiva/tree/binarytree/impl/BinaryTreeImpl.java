@@ -1,4 +1,4 @@
-package com.gargshiva.tree.binarytree;
+package com.gargshiva.tree.binarytree.impl;
 
 public class BinaryTreeImpl {
 

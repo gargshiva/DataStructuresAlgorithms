@@ -1,4 +1,7 @@
-package com.gargshiva.tree.binarytree;
+package com.gargshiva.tree.binarytree.view;
+
+import com.gargshiva.tree.binarytree.impl.BinaryTreeImpl;
+import com.gargshiva.tree.binarytree.impl.TreeNode;
 
 /**
  * Add one element for each level . One other possible solution can be Level order traversal.

@@ -1,5 +1,8 @@
 package com.gargshiva.tree.binarytree;
 
+import com.gargshiva.tree.binarytree.impl.BinaryTreeImpl;
+import com.gargshiva.tree.binarytree.impl.TreeNode;
+
 public class LeafNodes {
 
     public static void main(String[] args) {
